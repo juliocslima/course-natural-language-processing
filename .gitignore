@@ -28,3 +28,4 @@ intro/data
 *.bin
 *.zip
 *.txt
+.ipynb_checkpoints
